@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">App0</string>
+    <string name="activity1_android">Android is a mobile/desktop operating system based on a modified version of the Linux kernel </string>
+    <string name="hello_foodie">Hello <b>Foodie!</b> </string>
+</resources>
